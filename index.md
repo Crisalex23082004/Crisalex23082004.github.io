@@ -2,7 +2,7 @@
 ![Total Station Image](https://github.com/Crisalex23082004/Crisalex23082004.github.io/assets/148759760/ed4182fb-7d7e-4fd1-aa26-c1b9e68f698f)
 ..png)
 
-[Afla Mai Multe Aici](aboutme.md)
+[Afla Mai Multe Aici](about.md)
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
 Bine ai venit pe pagina mea de internet de portofoliu! Sunt [Numele Tău], un student pasionat de Geodezie cu o dragoste pentru dezvoltarea web. Aici vei găsi o prezentare a experienței și a proiectelor mele.
